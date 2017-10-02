@@ -1,0 +1,24 @@
+---
+layout: page
+active_menu_index: 3
+---
+
+{{ content }}
+
+<div class="spa-steps">
+{% assign sorted_pages = site.pages | sort:"menu_index" %}
+{% assign prev_menu_index = page.menu_index | minus: 1 %}
+{% assign next_menu_index = page.menu_index | plus: 1 %}
+{% for my_page in sorted_pages %}
+  {% if my_page.menu_index and my_page.parent == page.parent and my_page.menu_index == prev_menu_index %}
+  <div class="spa-step-previous">
+    <a href="{{ my_page.url | prepend: site.baseurl }}">Vorige stap</a>
+  </div>
+  {% endif %}
+  {% if my_page.menu_index and my_page.parent == page.parent and my_page.menu_index == next_menu_index %}
+  <div class="spa-step-next">
+    <a href="{{ my_page.url | prepend: site.baseurl }}">Volgende stap</a>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
