@@ -4,9 +4,10 @@ title: Kenmerken van slimme peuters
 permalink: /kenmerken/
 menu_index: 1
 parent: index
+published: true
 ---
 
-Peuters met een ontwikkelingsvoorsprong...
+Hier vind je kenmerken van peuters met een ontwikkelingsvoorsprong...
 
 ## Cognitief
 * Zijn heel nieuwsgierig en leergierig
