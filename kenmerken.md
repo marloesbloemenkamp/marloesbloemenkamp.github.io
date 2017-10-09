@@ -7,7 +7,7 @@ parent: index
 published: true
 ---
 
-Hier vind je kenmerken van peuters met een ontwikkelingsvoorsprong...
+In dit lijstje vind je verschillende kenmerken van slimme peuters, in de literatuur ook wel peuters met een ontwikkelingsvoorsprong genoemd. De kenmerken staan per ontwikkelingsgebied beschreven. Peuters met een ontwikkelingsvoorsprong...
 
 ## Cognitief
 * Zijn heel nieuwsgierig en leergierig
