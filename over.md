@@ -3,6 +3,7 @@ layout: page
 title: Over dit project
 permalink: /over/
 parent: index
+published: true
 ---
 
 Het slimme peuter project is ontworpen door Marloes Bloemenkamp.
@@ -10,5 +11,6 @@ Voor haar studie Leren en Innoveren deed ze onderzoek naar de signalering en beg
 peuters met een ontwikkelingsvoorsprong. Deze website is onderdeel van haar ontwerp voor
 deskundigheidsbevordering van pedagogisch medewerkers bij het begeleiden van peuters met een
 ontwikkelingsvoorsprong.
+![]({{site.baseurl}}//Tekening%20Marloes.jpg)
 
 Voor meer informatie over dit project kunt u contact opnemen via [ikhebeenvraag@slimmepeuterproject.nl](mailto:ikhebeenvraag@slimmepeuterproject.nl).
