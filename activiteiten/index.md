@@ -7,6 +7,7 @@ published: true
 ---
 
 Op deze pagina vind je ideeën voor uitdagende activiteiten voor slimme peuters. Klik op de titel voor de beschrijving van de activiteit.
+![Meisje met blokken.jpg]({{site.baseurl}}/activiteiten/Meisje met blokken.jpg)
 
 ## Over de rivier
 probleemoplossend denken | creatief denken | bouwen
