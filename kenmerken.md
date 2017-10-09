@@ -19,6 +19,7 @@ In dit lijstje vind je verschillende kenmerken van slimme peuters; in de literat
 * Vroege taalontwikkeling (of juist laat, maar dan vaak meteen in volledige zinnen);
 * Goed taalgebruik en uitgebreide woordenschat;
 * Kunnen complexe zaken begrijpen en kunnen vooruitdenken;
+* Hebben een goed visueel-ruimtelijk of wiskundig inzicht;
 * Slaan ontwikkelings- of leerstappen over.
 
 ## Sociaal-emotioneel
