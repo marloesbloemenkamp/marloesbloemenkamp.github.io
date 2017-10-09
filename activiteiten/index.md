@@ -6,15 +6,16 @@ parent: index
 published: true
 ---
 
-Hier staan allerlei ideeën over activiteiten.
-
-Test
+Op deze pagina vind je ideeën voor uitdagende activiteiten voor slimme peuters. Klik op de titel voor de beschrijving van de activiteit.
 
 ## Over de rivier
-**Doel:** probleemoplossend denken, creatief denken
+probleemoplossend denken | creatief denken | bouwen
 
-**Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
+## De deurbel is stuk
+probleemoplossend denken | creatief denken | samenwerken
 
-**Uitdagende activiteit:** Maak van blauw papier of stof een rivier na in de zandtafel. Zet autootjes aan de ene kant van de rivier en vraag de peuters hoe de auto’s naar de andere kant van de rivier kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
+## Wat moet in welke doos?
+visueel-ruimtelijk inzicht | probleemoplossend denken | samenwerken
 
-**Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer de rivier te verbreden of bijvoorbeeld in plaats van een autootje en kleine vrachtwagen te kiezen.
+## Bouw jij wat ik bouw?
+samenwerken | communiceren | visueel-ruimtelijk inzicht
