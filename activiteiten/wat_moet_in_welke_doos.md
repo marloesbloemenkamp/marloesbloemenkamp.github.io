@@ -1,11 +1,12 @@
 ---
 layout: activiteiten
-title: Over de rivier
-permalink: activiteiten/1/
-published: true
+title: Wat moet er in welke doos?
+permalink: activiteiten/wat_moet_er_in_welke_doos/
+menu_index: 3
+parent: activiteiten
+tags: [visueel-ruimtelijk inzicht, probleemoplossend denken, samenwerken]
 ---
 
-## Over de rivier
 **Doel:** probleemoplossend denken, creatief denken
 
 **Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.

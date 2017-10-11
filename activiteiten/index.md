@@ -9,14 +9,14 @@ published: true
 Op deze pagina vind je ideeën voor uitdagende activiteiten voor slimme peuters. Klik op de titel voor de beschrijving van de activiteit.
 ![Meisje met blokken.jpg]({{site.baseurl}}/activiteiten/Meisje met blokken.jpg)
 
-## Over de rivier
-probleemoplossend denken | creatief denken | bouwen
-
-## De deurbel is stuk
-probleemoplossend denken | creatief denken | samenwerken
-
-## Wat moet in welke doos?
-visueel-ruimtelijk inzicht | probleemoplossend denken | samenwerken
-
-## Bouw jij wat ik bouw?
-samenwerken | communiceren | visueel-ruimtelijk inzicht
+{% assign sorted_pages = site.pages | sort:"menu_index" %}
+{% for my_page in sorted_pages %}
+  {%- if my_page.menu_index and my_page.parent and my_page.parent == "activiteiten" -%}{{ "" }}
+## [{{ my_page.title }}]({{ my_page.url | prepend: site.baseurl }})
+    {%- assign sorted_tags = my_page.tags | sort %}
+    {%- for tag in sorted_tags -%}{{ "" }}
+{{ tag }}
+{% if forloop.last == false %} | {% endif %}
+    {%- endfor -%}
+  {%- endif -%}
+{% endfor %}
