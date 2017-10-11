@@ -11,6 +11,6 @@ Ze zijn heel nieuwsgierig en zijn vaak enthousiast als ze iets nieuws kunnen ler
 Het is belangrijk dat dit niet alleen cognitieve activiteiten zijn, maar ook activiteiten op
 bijvoorbeeld emotioneel of motorisch gebied, zodat zij zich optimaal kunnen ontwikkelen.
 
-[Klik hier voor een stappenplan voor het uitvoeren van uitdagende activiteiten.]({% link aandeslag/index.md %})
+[Klik hier voor een stappenplan voor het uitvoeren van uitdagende activiteiten.]({% link spa.md %})
 
 [Klik hier voor ideeën voor uitdagende activiteiten.]({% link activiteiten/index.md %})

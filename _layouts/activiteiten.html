@@ -3,15 +3,6 @@ layout: page
 active_menu_index: 4
 ---
 
-<p>
-<strong>Categoriën: </strong>
-{%- assign sorted_tags = page.tags | sort %}
-{%- for tag in sorted_tags -%}
-{{- tag -}}
-{% if forloop.last == false %}, {% endif %}
-{%- endfor -%}
-</p>
-
 {{ content }}
 
 <div class="spa-steps">

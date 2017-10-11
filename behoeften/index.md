@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wat heeft een slimme peuter nodig?
+title: Wat hebben slimme peuters nodig?
 menu_index: 2
 parent: index
 ---
@@ -10,6 +10,6 @@ De volgende aspecten zijn belangrijk voor peuters met een ontwikkelingsvoorspron
 {% assign sorted_pages = site.pages | sort:"menu_index" %}
 {% for my_page in sorted_pages %}
   {%- if my_page.menu_index and my_page.parent and my_page.parent == "behoeften" -%}{{ "" }}
-* [{{ my_page.title }}]({{ my_page.url | prepend: site.baseurl }})
+## [{{ my_page.title }}]({{ my_page.url | prepend: site.baseurl }})
   {%- endif -%}
 {% endfor %}
