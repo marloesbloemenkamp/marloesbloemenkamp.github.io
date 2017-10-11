@@ -61,7 +61,7 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   - Eventueel (gedrags)regels opnieuw uitlegt.
 
 2d. Beantwoord vragen van de peuters over de activiteit
-: 
+: TODO: Nog in te vullen
 
 ## Stap 3: Begeleid de activiteit
 3a. Zorg ervoor dat de peuters de activiteit zo zelf zelfstandig mogelijk kunnen uitvoeren

@@ -12,13 +12,21 @@ layout: default
   var spa = document.getElementById('spa');
   var allDT = spa.getElementsByTagName('dt');
   for (dt of allDT) {
-    dt.onclick = function() {
-      var dd = this.nextElementSibling;
-      if (dd.style.display == 'block') {
-        dd.style.display = 'none';
-      } else {
-        dd.style.display = 'block';
+    dt.onclick = function(event) {
+      var ddToToggle = this.nextElementSibling;
+      for (dd of document.getElementById('spa').getElementsByTagName('dd')) {
+        if (dd != ddToToggle) {
+          dd.style.display = 'none';
+        }
       }
+      if (ddToToggle.style.display == 'block') {
+        ddToToggle.style.display = 'none';
+      } else {
+        ddToToggle.style.display = 'block';
+      }
+
+      event.preventDefault();
     }
+    dt.ontouchend = dt.onclick;
   }
 </script>

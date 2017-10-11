@@ -980,10 +980,12 @@ div#spa {
 div#spa dt {
   cursor: pointer;
   font-size: 18px;
+  color: #2879d0;
 }
 
 div#spa dd {
   font-style: normal;
+  font-weight: 400;
   margin: 0px;
   display: none;
   border-left: 3px solid #9ddcff;
