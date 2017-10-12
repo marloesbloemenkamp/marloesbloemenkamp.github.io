@@ -4,6 +4,7 @@ title: Aan de slag!
 permalink: /spa/
 menu_index: 3
 parent: index
+published: true
 ---
 
 Dit stappenplan helpt je bij het begeleiden van peuters met een ontwikkelingsvoorsprong.
@@ -34,7 +35,7 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   Stimuleer en motiveer de slimme peuters om uitdagingen aan te gaan!
 
 ## Stap 2: Start de activiteit
-2a. Vertel de peuters wat het doel is van de activiteit
+2a. Geef uitleg over de activiteit
 : Zorg ervoor dat dit aan bod komt:
 
   - Geef een korte en heldere instructie;
@@ -42,14 +43,14 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   - Stem je instructie af op de verschillen in ontwikkeling tussen de peuters;
   - Ga na of alle peuters je instructie hebben begrepen.
 
-2b. Leg uit wat de peuters moeten doen
+2b. Bespreek regels en afspraken bij de activiteit
 : Zorg ervoor dat je:
 
   - De gedragsregels positief formuleert;
   - Vertelt ‘hoe’ en ‘waarom’ je het gewenste gedrag van de peuters verwacht;
   - Rekening houdt met het ontwikkelingsniveau en de behoeften van de peuters.
 
-2c. Bespreek regels en afspraken bij de activiteit
+2c. Beantwoord vragen van de peuters over de activiteit
 : Peuters met een ontwikkelingsvoorsprong hebben veel vragen en zijn kritisch ingesteld.
   Ze willen graag zelf bepalen en bevragen regels. Het is belangrijk voor de peuters dat er ruimte is voor het stellen van vragen.
 
@@ -59,9 +60,6 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   - In gaat op de vragen en initiatieven van de peuters;
   - Laat zien dat je bent geïnteresseerd in de vragen van de peuters;
   - Eventueel (gedrags)regels opnieuw uitlegt.
-
-2d. Beantwoord vragen van de peuters over de activiteit
-: TODO: Nog in te vullen
 
 ## Stap 3: Begeleid de activiteit
 3a. Zorg ervoor dat de peuters de activiteit zo zelf zelfstandig mogelijk kunnen uitvoeren
