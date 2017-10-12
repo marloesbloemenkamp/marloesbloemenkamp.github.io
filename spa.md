@@ -19,7 +19,9 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
 
   - Aansluit bij de zone van naaste ontwikkeling en interesses van de peuters met een ontwikkelingsvoorsprong;
   - Afwisselende werkvormen aanbiedt;
-  - Activiteiten kiest op verschillende ontwikkelingsgebieden.
+  - Activiteiten kiest die betekenisvol zijn voor de peuters;
+  - Activiteiten kiest op verschillende ontwikkelingsgebieden;
+  - Peuters mee laat denken over uitdagende activiteiten.
 
   [Hier vind je voorbeelden en ideeën voor uitdagende activiteiten.]({% link activiteiten/index.md %})
 
@@ -48,6 +50,7 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
 
   - De gedragsregels positief formuleert;
   - Vertelt ‘hoe’ en ‘waarom’ je het gewenste gedrag van de peuters verwacht;
+  - Een goede balans vindt tussen duidelijkheid en ruimte voor de inbreng van de peuters;
   - Rekening houdt met het ontwikkelingsniveau en de behoeften van de peuters.
 
 2c. Beantwoord vragen van de peuters over de activiteit
@@ -64,7 +67,9 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
 ## Stap 3: Begeleid de activiteit
 3a. Zorg ervoor dat de peuters de activiteit zo zelf zelfstandig mogelijk kunnen uitvoeren
 : - Geef de peuters de ruimte om zelf te ontdekken;
-  - Laat de peuters vooral zelf handelen en ervaren.
+  - Laat de peuters vooral zelf handelen en ervaren;
+  - Stimuleer een onderzoekende houding bij de peuters;
+  - Laat de peuters experimenteren om oplossingen te vinden.
 
 3b. Observeer de peuters bij hun spel/werk
 : Let bij je observatie op de volgende onderwerpen:
@@ -83,7 +88,11 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   - Open vragen stelt;
   - (intense) gevoelens van de peuters erkent en benoemt;
   - Steunt en aanmoedigt wanneer het lastig is;
-  - Ondersteunt bij het uitvoeren van de oplossing, als het niet zelf lukt.
+  - Laat ervaren dat fouten maken belangrijk is om te leren en erbij hoort;
+  - Laat ervaren dat je door je best te doen, iets nieuws kunt leren;
+  - Ondersteunt bij het uitvoeren van de oplossing, als het niet zelf lukt;
+  - Successen van de peuters mogelijk maakt en samen viert.
+  
 
 3d. Begeleid de peuters bij hun contacten met andere peuters
 : [Lees hier meer over de ondersteuning bij de sociaal-emotionele ontwikkeling.]({% link behoeften/sociaal-emotionele_ontwikkeling.md %})
@@ -93,6 +102,7 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
   - Stimuleer positieve interactie tussen peuters onderling
   - Organiseer [contacten tussen ontwikkelingsgelijken]({% link behoeften/contact_ontwikkelingsgelijken.md %});
   - Bespreek met de peuters (en laat ze zelf nadenken) wat het effect van hun gedrag op elkaar is;
+  - Help de peuters bij het uitleggen van hun denkstappen.
   - Ondersteun de peuters bij het zelf oplossen van conflicten.
 
 ## Stap 4: Rond de activiteit af
