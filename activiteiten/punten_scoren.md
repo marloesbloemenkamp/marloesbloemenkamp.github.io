@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Punten scoren
 permalink: activiteiten/punten_scoren/
-menu_index: 1
+menu_index: 6
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
