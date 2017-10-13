@@ -1,16 +1,20 @@
 ---
 layout: activiteiten
-title: Bouw jij wat ik bouw?
+title: De deurbel doet het niet!
 permalink: activiteiten/bouw_jij_wat_ik_bouw/
 menu_index: 4
 parent: activiteiten
-tags: [visueel-ruimtelijk inzicht, communiceren, samenwerken]
+tags:
+  - visueel-ruimtelijk inzicht
+  - communiceren
+  - samenwerken
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
 
-**Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
+**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal???
 
-**Uitdagende activiteit:** Maak van blauw papier of stof een rivier na in de zandtafel. Zet autootjes aan de ene kant van de rivier en vraag de peuters hoe de auto’s naar de andere kant van de rivier kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
+**Uitdagende activiteit:** Bespreek met de peuters het volgende probleem: De deurbel van de opvang doet het niet meer. Hoe weten we nu of er bezoek is? Hoe kunnen we het probleem oplossen?
 
-**Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer de rivier te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
+**Bijzonderheden:** Deze opdracht is het leukst en meest betekenisvol als de bel ook echt uitgezet kan worden en de oplossingen van de peuters ècht getest kunnen worden. Neem de tijd om samen verschillende ideeën te bespreken en verwonder je over de creativiteit van de peuters!
