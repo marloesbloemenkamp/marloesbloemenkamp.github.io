@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Vliegende tassen
 permalink: activiteiten/vliegende_tassen/
-menu_index: 1
+menu_index: 14
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
