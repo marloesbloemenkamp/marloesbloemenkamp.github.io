@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Puzzelen maar
 permalink: activiteiten/puzzelen_maar/
-menu_index: 1
+menu_index: 8
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
