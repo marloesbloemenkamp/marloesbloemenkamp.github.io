@@ -10,11 +10,10 @@ tags:
   - samenwerken
 published: true
 ---
+**Doel:** samenwerken, communiceren, visueel-ruimtelijk inzicht
 
-**Doel:** probleemoplossend denken, creatief denken
+**Materialen:** twee doosjes met dezelfde blokken, doos of scherm als tussenwand zodat de peuters elkaar niet kunnen zien.
 
-**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal???
+**Uitdagende activiteit:** Twee peuters zitten tegenover elkaar, tussen hen in staat een doos of scherm, zodat ze elkaar niet kunnen zien. Ze hebben allebei een doosje met dezelfde blokken. De ene peuter bouwt een toren en vertelt aan de andere peuter welke blokken hij hiervoor gebruikt. De andere peuter moet dezelfde toren bouwen. Zijn de torens op het einde hetzelfde?
 
-**Uitdagende activiteit:** Bespreek met de peuters het volgende probleem: De deurbel van de opvang doet het niet meer. Hoe weten we nu of er bezoek is? Hoe kunnen we het probleem oplossen?
-
-**Bijzonderheden:** Deze opdracht is het leukst en meest betekenisvol als de bel ook echt uitgezet kan worden en de oplossingen van de peuters ècht getest kunnen worden. Neem de tijd om samen verschillende ideeën te bespreken en verwonder je over de creativiteit van de peuters!
+**Bijzonderheden:** Deze activiteit is ook leuk met een eenvoudige kralenplank met kralen.
