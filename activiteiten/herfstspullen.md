@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Herfstspullen
 permalink: activiteiten/herfstspullen/
-menu_index: 1
+menu_index: 11
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
