@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Bunny Boo
 permalink: activiteiten/bunny_boo/
-menu_index: 1
+menu_index: 2
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
