@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Scheve toren
 permalink: activiteiten/scheve_toren/
-menu_index: 1
+menu_index: 4
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
