@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Het zinkt
 permalink: activiteiten/het_zinkt/
-menu_index: 1
+menu_index: 10
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
