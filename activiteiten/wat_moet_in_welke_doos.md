@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Wat moet er in welke doos?
 permalink: activiteiten/wat_moet_er_in_welke_doos/
-menu_index: 3
+menu_index: 12
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht
@@ -17,4 +17,3 @@ published: true
 **Uitdagende activiteit:** Het is een rommeltje! Er liggen allemaal dozen in verschillende maten in de ruimte en er liggen allerlei verschillende voorwerpen in verschillende maten tussen. De voorwerpen moeten terug in de dozen, maar wat past goed in welke doos? Hoe kunnen alle voorwerpen weer netjes opgeruimd worden?
 
 **Bijzonderheden:** Deze activiteit past goed binnen een Sinterklaasthema om de inpakpieten te helpen bij het plaatsen van cadeautjes in de juiste dozen.
-
