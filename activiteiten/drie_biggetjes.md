@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Drie biggetjes
 permalink: activiteiten/drie_biggetjes/
-menu_index: 3
+menu_index: 2
 parent: activiteiten
 tags:
   - probleemoplossend denken
