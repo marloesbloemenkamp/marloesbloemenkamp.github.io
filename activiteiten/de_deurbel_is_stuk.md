@@ -13,7 +13,7 @@ published: true
 
 **Doel:** probleemoplossend denken, creatief denken
 
-**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal???
+**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal
 
 **Uitdagende activiteit:** Bespreek met de peuters het volgende probleem: De deurbel van de opvang doet het niet meer. Hoe weten we nu of er bezoek is? Hoe kunnen we het probleem oplossen?
 
