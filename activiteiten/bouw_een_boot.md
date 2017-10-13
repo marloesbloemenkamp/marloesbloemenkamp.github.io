@@ -2,9 +2,13 @@
 layout: activiteiten
 title: Bouw een boot
 permalink: activiteiten/bouw_een_boot/
-menu_index: 1
+menu_index: 5
 parent: activiteiten
-tags: [probleemoplossend denken, creatief denken, bouwen]
+tags:
+  - probleemoplossend denken
+  - creatief denken
+  - bouwen
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
