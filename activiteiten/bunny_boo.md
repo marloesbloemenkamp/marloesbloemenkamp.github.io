@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Bunny Boo
 permalink: activiteiten/bunny_boo/
-menu_index: 2
+menu_index: 7
 parent: activiteiten
 tags:
   - probleemoplossend denken
