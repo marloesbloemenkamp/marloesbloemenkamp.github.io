@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: De deurbel doet het niet!
+title: Bouw jij wat ik bouw?
 permalink: activiteiten/bouw_jij_wat_ik_bouw/
 menu_index: 4
 parent: activiteiten
