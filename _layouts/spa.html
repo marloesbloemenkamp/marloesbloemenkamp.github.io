@@ -9,66 +9,32 @@ layout: default
 </div>
 
 <script style="text/javascript">
-  function setCookie(cname, cvalue, exdays) {
-    let d = new Date();
-    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-    let expires = "expires="+ d.toUTCString();
-    document.cookie = cname + "=" + cvalue + ";" + expires;
-  }
-
-  function getCookie(cname) {
-    let name = cname + "=";
-    let decodedCookie = decodeURIComponent(document.cookie);
-    let ca = decodedCookie.split(';');
-    for (let i = 0; i < ca.length; i++) {
-      let c = ca[i];
-      while (c.charAt(0) == ' ') {
-        c = c.substring(1);
-      }
-      if (c.indexOf(name) == 0) {
-        return c.substring(name.length, c.length);
-      }
-    }
-    return "";
-  }
-
   let spa = document.getElementById('spa');
   let allDT = spa.getElementsByTagName('dt');
 
   for (let i = 0; i < allDT.length; i++) {
     let dt = allDT[i];
-
     let dd = dt.nextElementSibling;
-    dd.id = 'dd' + i;
 
-    // Insert an <a /> tag around the <dt /> tag, which will toggle the display CSS value of the <dd /> below it.
+    // Inser an "anchor div". It's positioned fixed at the top, so there is no jumping behaviour.
+    let anchorDiv = document.createElement('div');
+    dd.parentElement.insertBefore(anchorDiv, dd);
+    anchorDiv.classList.add('anchor');
+    anchorDiv.id = 'dd' + i;
+
+    // Insert an <a /> tag around the <dt /> tag, which will toggle the display CSS value of the <dd /> below it. Toggling is done by using :target.
     let a = document.createElement('a');
     a.innerHTML = dt.innerHTML;
-    a.href = '#' + dd.id;
+    a.href = '#' + anchorDiv.id;
     dt.innerHTML = '';
     dt.appendChild(a);
 
     a.onclick = function(event) {
-      let ddToToggle = this.parentElement.nextElementSibling;
-      for (dd of document.getElementById('spa').getElementsByTagName('dd')) {
-        if (dd != ddToToggle) {
-          dd.style.display = 'none';
-        }
+      // Add onclick behaviour for collapsing the harmonica when we click on the already opened item.
+      if (this.href.substring(this.href.indexOf('#')) == window.location.hash) {
+        window.location.hash = '#/';
+        event.preventDefault();
       }
-      if (ddToToggle.style.display == 'block') {
-        ddToToggle.style.display = 'none';
-        setCookie('openedItem', null, -1);
-      } else {
-        ddToToggle.style.display = 'block';
-        setCookie('openedItem', ddToToggle.id, 10);
-      }
-
-      event.preventDefault();
-      return false;
-    }
-
-    if (getCookie('openedItem') == dd.id) {
-      dd.style.display = 'block';
     }
   }
 </script>

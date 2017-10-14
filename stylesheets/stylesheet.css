@@ -979,7 +979,14 @@ div#spa dd {
   margin-bottom: 10px;
 }
 
-/*div#spa dd:target {
+/* This anchor div is positioned fixed at the top, so there is no jumping behaviour for the harmonica when using :target */
+div#spa div.anchor {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+div#spa div:target + dd  {
   display: block;
-}*/
+}
 
