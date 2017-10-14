@@ -445,6 +445,7 @@ a {
 }
 a:hover {
   color: #2268b2;
+  text-decoration: underline;
 }
 
 
@@ -561,6 +562,7 @@ header h1 {
 }
 
 header h1 a:hover {
+  text-decoration: none;
   color: inherit;
 }
 
@@ -956,31 +958,13 @@ dl dd {
 @media only screen and (max-width: 479px) { }
 
 /**
- * Spa - TODO: rename naar iets anders, volgens mij gebruikt alleen footer dit nog.
+ * Spa
  */
-.spa-steps div {
-  width: 50%;
-}
-
-.spa-step-previous {
-  float: left;
-}
-
-.spa-step-next {
-  float: right;
-  text-align: right;
-}
-
-
-
-
 div#spa {
 }
 
 div#spa dt {
-  cursor: pointer;
   font-size: 18px;
-  color: #2879d0;
 }
 
 div#spa dd {
@@ -995,6 +979,7 @@ div#spa dd {
   margin-bottom: 10px;
 }
 
-div#spa dt:hover {
-  text-decoration: underline;
-}
+/*div#spa dd:target {
+  display: block;
+}*/
+
