@@ -12,8 +12,7 @@ Op deze pagina vind je ideeën voor uitdagende activiteiten voor slimme peuters.
 {% for my_page in sorted_pages %}
   {%- if my_page.menu_index and my_page.parent and my_page.parent == "activiteiten" -%}{{ "" }}
 ## [{{ my_page.title }}]({{ my_page.url | prepend: site.baseurl }})
-    {%- assign sorted_tags = my_page.tags | sort %}
-    {%- for tag in sorted_tags -%}{{ "" }}
+    {%- for tag in my_page.tags -%}{{ "" }}
 {{ tag }}
 {% if forloop.last == false %} | {% endif %}
     {%- endfor -%}
