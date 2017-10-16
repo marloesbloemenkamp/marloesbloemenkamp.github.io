@@ -5,13 +5,12 @@ permalink: activiteiten/bunny_boo/
 menu_index: 7
 parent: activiteiten
 tags:
-  - probleemoplossend denken
-  - creatief denken
-  - bouwen
+  - visueel-ruimtelijk inzicht
+  - doorzettingsvermogen
 published: true
 ---
 
-**Doel:** probleemoplossend denken, creatief denken
+**Doel:** visueel-ruimtelijk inzicht, doorzettingsvermogen
 
 **Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
 
