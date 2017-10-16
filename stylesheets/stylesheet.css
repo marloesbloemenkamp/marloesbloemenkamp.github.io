@@ -665,6 +665,7 @@ pre code {
 
 ul, ol, dl {
   margin-bottom: 20px;
+  margin-top: 0px;
 }
 
 
@@ -721,7 +722,7 @@ form {
 }
 
 #main-content h2 {
-  margin-bottom: 8px;
+  margin-bottom: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
