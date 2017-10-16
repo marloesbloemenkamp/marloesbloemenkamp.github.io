@@ -5,12 +5,11 @@ permalink: activiteiten/drie_biggetjes/
 menu_index: 2
 parent: activiteiten
 tags:
-  - probleemoplossend denken
-  - creatief denken
-  - bouwen
+  - visueel-ruimtelijk inzicht
+  - doorzettingsvermogen
 published: true
 ---
-**Doel:** visueel-ruimtelijk inzicht, probleemoplossend denken, doorzettingsvermogen
+**Doel:** visueel-ruimtelijk inzicht, doorzettingsvermogen
 
 **Materialen:** de smartgame Drie Kleine Biggetjes
 

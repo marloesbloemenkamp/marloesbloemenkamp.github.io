@@ -117,7 +117,7 @@ Je kunt op iedere stap van het stappenplan klikken voor meer informatie en tips.
 : Bespreek met de peuters:
 
   - Hoe de activiteit is aangepakt;
-  - Wat de succes waren tijdens de activiteit;
+  - Wat de successen waren tijdens de activiteit;
   - Wat de peuters ervan hebben geleerd.
 
 4c. Reflecteer op je eigen handelen bij deze activiteit
