@@ -8,6 +8,7 @@ published: true
 ---
 
 Hoe herken je een slimme peuter? Hieronder vind je verschillende kenmerken van slimme peuters; in de literatuur ook wel peuters met een ontwikkelingsvoorsprong genoemd. De kenmerken staan per ontwikkelingsgebied beschreven. 
+
 Peuters met een ontwikkelingsvoorsprong...
 
 ## Cognitief
