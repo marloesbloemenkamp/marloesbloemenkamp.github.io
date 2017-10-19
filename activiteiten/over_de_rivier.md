@@ -19,8 +19,4 @@ published: true
 
 **Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer het kanaal te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
 
-**Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. Het stappenplan Over het kanaal kun je als voorbeeld gebruiken om te oefenen met het uitvoeren van uitdagende activiteiten.
-
-
-
-
+**Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. Aan de slag! Over het kanaal kun je als voorbeeld gebruiken om te oefenen met het aanbieden van uitdagende activiteiten.
