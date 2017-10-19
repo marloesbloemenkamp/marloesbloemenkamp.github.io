@@ -18,3 +18,9 @@ published: true
 **Uitdagende activiteit:** Maak van blauw papier of stof een kanaal na in de zandtafel. Zet autootjes aan de ene kant van het kanaal en vraag de peuters hoe de auto’s naar de andere kant van het kanaal kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
 
 **Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer het kanaal te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
+
+**Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. Het stappenplan Over het kanaal kun je als voorbeeld gebruiken om te oefenen met het uitvoeren van uitdagende activiteiten.
+
+
+
+
