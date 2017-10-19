@@ -16,3 +16,5 @@ published: true
 **Uitdagende activiteit:** Deze smartgame bestaat uit twee soorten opdrachten, de dag-opdrachten en de nacht-opdrachten. Bij de dag-opdrachten plaats je de biggetjes zoals afgebeeld staat in het boekje en zet je de drie puzzelstukken met de huisjes er omheen, zodat de biggetjes buiten kunnen spelen. Bij de nacht-opdrachten plaats je de biggetjes en de wolf zoals is afgebeeld en zet je de drie puzzelstukken zo neer dat de biggetjes veilig in de huisjes zitten en de wolf buiten blijft. Er is steeds maar één oplossing en deze vind je op de achterkant van de opdrachtenpagina in het boekje. De opdrachten in het boekje worden steeds moeilijker.
 
 **Bijzonderheden:** Bij de smartgame zit een prentenboek met een verhaal over de drie biggetjes en de wolf. Ter introductie van het spel, kan dit boekje voorgelezen worden aan de peuters en kan het nagespeeld worden door de peuters.
+
+**Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. Aan de slag! Drie biggetjes kun je als voorbeeld gebruiken om te oefenen met het aanbieden van uitdagende activiteiten.
