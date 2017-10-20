@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Herfstspullen
+title: Herfst | Herfstspullen
 permalink: activiteiten/herfstspullen/
 menu_index: 11
 parent: activiteiten
