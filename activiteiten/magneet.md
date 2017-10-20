@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Door het spinnenweb
+title: Herfst | Door het spinnenweb
 permalink: activiteiten/door_het_spinnenweb/
 menu_index: 9
 parent: activiteiten
@@ -29,4 +29,3 @@ Als het gelukt is om een paar keer door het spinnenweb te klimmen, maak je tweet
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Wil je de opdracht uitdagender maken, dan kun je de peuters een mandje met eikels of dennenappels meegeven om naar de overkant te brengen. Lukt het om het mandje met alle spullen veilig naar de overkant te brengen? Een andere optie is om de peuters in tweetallen (hand in hand) door het spinnenweb te laten klimmen; hiervoor moet je heel goed overleggen en samenwerken.
-
