@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Herfst* Bladerbeesten
+title: Herfst | Bladerbeesten
 permalink: activiteiten/bladerbeesten/
 menu_index: 6
 parent: activiteiten
