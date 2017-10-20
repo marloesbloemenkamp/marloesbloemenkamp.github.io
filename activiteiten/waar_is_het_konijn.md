@@ -1,7 +1,7 @@
 ---
 layout: activiteiten
 title: Waar is het konijn?
-permalink: activiteiten/waar is het konijn?/
+permalink: activiteiten/waar_is_het_konijn/
 menu_index: 3
 parent: activiteiten
 tags:
