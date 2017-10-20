@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Herfst | Herfstspullen
 permalink: activiteiten/herfstspullen/
-menu_index: 11
+menu_index: 4
 parent: activiteiten
 tags:
   - experimenteren
