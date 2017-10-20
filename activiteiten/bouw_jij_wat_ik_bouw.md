@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Bouw jij wat ik bouw?
 permalink: activiteiten/bouw_jij_wat_ik_bouw/
-menu_index: 3
+menu_index: 12
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht
