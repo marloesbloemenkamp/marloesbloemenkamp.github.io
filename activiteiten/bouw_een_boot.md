@@ -1,8 +1,8 @@
 ---
 layout: activiteiten
-title: Bouw een boot
+title: Feest | Bouw een boot
 permalink: activiteiten/bouw_een_boot/
-menu_index: 5
+menu_index: 9
 parent: activiteiten
 tags:
   - probleemoplossend denken
