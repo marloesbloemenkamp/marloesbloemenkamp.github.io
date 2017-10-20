@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Punten scoren
+title: Bladerbeesten
 permalink: activiteiten/bladerbeesten/
 menu_index: 6
 parent: activiteiten
