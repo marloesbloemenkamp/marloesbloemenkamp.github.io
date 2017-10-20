@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Herfst | Bladerbeesten
 permalink: activiteiten/bladerbeesten/
-menu_index: 6
+menu_index: 7
 parent: activiteiten
 tags:
   - fantasie
