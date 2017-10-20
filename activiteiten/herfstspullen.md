@@ -25,7 +25,7 @@ published: true
 -	Wat is er zwaarder: het emmertje met de dennenappels of het emmertje met de bladeren? 
     Hoe komt dat, denk je?
 -	Kun je ervoor zorgen dat twee emmertjes precies even zwaar zijn?
--	Wat is het kleinste materiaal wat je ziet? Wat is het grootste?
+-	Wat is het kleinste materiaal dat je ziet? Wat is het grootste?
 -	Wat vind je het mooiste? En waarom?
 -	Stel je voor dat je een eekhoorn zou zijn… Wat zou je dan als eerste uitkiezen? Waarom?
 
