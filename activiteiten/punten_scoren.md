@@ -1,26 +1,26 @@
 ---
 layout: activiteiten
 title: Punten scoren
-permalink: activiteiten/punten_scoren/
+permalink: activiteiten/bladerbeesten/
 menu_index: 6
 parent: activiteiten
 tags:
-  - probleemoplossend denken
+  - fantasie
   - creatief denken
-  - bouwen
 published: true
 ---
 
-**Doel:** probleemoplossend denken, creatief denken
+**Doel:** fantasie, creatief denken
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
+**Materialen:** Verschillende soorten en maten herfstbladeren, papier, schaar, lijm, stiften.
 
 <p style="margin-top: 10px;"/>
 
-**Uitdagende activiteit:** Maak van blauw papier of stof een rivier na in de zandtafel. Zet autootjes aan de ene kant van de rivier en vraag de peuters hoe de auto’s naar de andere kant van de rivier kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
+**Uitdagende activiteit:** Verzamel samen verschillende herfstbladeren en leg ze op de grond of op de tafel. Wat zie je als je er iets langer naar kijkt? Kun je vormen herkennen van dieren? Leg bladeren bij elkaar of op elkaar, knip er stukjes af voor pootjes of staartjes, plak ze op en teken er misschien iets bij. Maak mooie, spannende, grappige of stoere bladerbeesten.
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer de rivier te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
+**Bijzonderheden:** Deze opdracht kun je uitdagender maken door de peuters te vragen om een verhaal te bedenken over de gemaakte bladerbeesten. Wat gaan ze samen doen? Wat zeggen ze tegen elkaar? Kun je ook aan de bladerbeesten zien hoe ze zich voelen?
+
