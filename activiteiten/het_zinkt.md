@@ -1,8 +1,8 @@
 ---
 layout: activiteiten
-title: Herfst | De kabouter zoekt een huis
-permalink: activiteiten/de_kabouter_zoekt_een_huis/
-menu_index: 10
+title: Herfst | Kabouterhuis
+permalink: activiteiten/kabouterhuis/
+menu_index: 6
 parent: activiteiten
 tags:
   - probleemoplossend denken
