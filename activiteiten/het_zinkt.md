@@ -1,7 +1,7 @@
 ---
 layout: activiteiten
-title: Het zinkt
-permalink: activiteiten/het_zinkt/
+title: De kabouter zoekt een huis
+permalink: activiteiten/de_kabouter_zoekt_een_huis/
 menu_index: 10
 parent: activiteiten
 tags:
@@ -11,16 +11,19 @@ tags:
 published: true
 ---
 
-**Doel:** probleemoplossend denken, creatief denken
+**Doel:** probleemoplossend denken, creatief denken, bouwen
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
+**Materialen:** Een herfst-zandtafel met herfstmaterialen: bladeren, takjes, dennenappels, eikels; een kleine speelgoedkabouter, houten blokken.
 
 <p style="margin-top: 10px;"/>
 
-**Uitdagende activiteit:** Maak van blauw papier of stof een rivier na in de zandtafel. Zet autootjes aan de ene kant van de rivier en vraag de peuters hoe de auto’s naar de andere kant van de rivier kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
+**Uitdagende activiteit:** In de herfst-zandtafel woont een kabouter. Hij houdt erg van de herfst. Van de mooie kleuren bladeren, de paddenstoelen en het spelen met dennenappels en eikels. Er is alleen één ding waar hij niet van houdt: regen en wind! Hij heeft daarom een vraag voor de peuters: kunnen jullie voor mij in de herfst-zandtafel een huisje bouwen zodat ik even naar binnen kan als het regent of heel hard waait?
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer de rivier te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
+**Bijzonderheden:** Deze opdracht wordt moeilijker als je er geen houten blokken bij geeft. Wellicht lukt het de peuters om een huisje te bouwen van de herfstmaterialen of zullen ze zelf aan je vragen of ze ook andere materialen mogen gebruiken. Tip: Maak foto’s van de gebouwde huisjes voor thuis of om op te hangen als voorbeeld.
+
+
+
