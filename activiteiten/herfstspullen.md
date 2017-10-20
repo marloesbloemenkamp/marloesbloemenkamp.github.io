@@ -5,22 +5,31 @@ permalink: activiteiten/herfstspullen/
 menu_index: 11
 parent: activiteiten
 tags:
-  - probleemoplossend denken
+  - experimenteren
   - creatief denken
-  - bouwen
+  - rekenkundig-inzicht
 published: true
 ---
 
-**Doel:** probleemoplossend denken, creatief denken
+**Doel:** experimenteren, creativiteit, rekenkundig-inzicht
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** autootjes, zandtafel, blauw papier of stof (om een rivier uit te beelden), materialen om een oplossing te bedenken voor de auto’s: bijvoorbeeld houten blokken, stevig karton of Duplo.
+**Materialen:** verschillende soorten en kleuren bladeren, eikels, kastanjes, takjes, dennenappels… Bakjes en emmertjes in verschillende maten, een weegschaal (of twee emmertjes aan een elastiek
 
 <p style="margin-top: 10px;"/>
 
-**Uitdagende activiteit:** Maak van blauw papier of stof een rivier na in de zandtafel. Zet autootjes aan de ene kant van de rivier en vraag de peuters hoe de auto’s naar de andere kant van de rivier kunnen komen. Er zijn vast peuters die op het idee van een tunnel, brug of veerboot komen. Laat de peuters hun idee nabouwen en testen of de constructie stevig genoeg is voor één of meer auto’s. Laat de peuters zelf een oplossing bedenken als de constructie bijvoorbeeld nog niet stevig genoeg is.
+**Uitdagende activiteit:** Verzamel samen buiten (op het speelplein of in het bos) herfstmaterialen: verschillende soorten en kleuren bladeren, eikels, kastanjes, takjes, dennenappels…. Neem het mee naar binnen en zorg voor verschillende maten bakjes en emmertjes, een weegschaal (of twee emmertjes aan een elastiek). Laat de peuters eerst zelf experimenteren, onderzoeken en spelen. Kijk wat er gebeurt en welke rekenkundige begrippen je ziet verschijnen. Komen de begrippen: ‘groot’, ‘klein’, ‘vol’, ‘leeg’, ‘veel’, ‘weinig’, ‘zwaar’ en ‘licht’ al voorbij? Kijk hoe je aan kunt sluiten bij het spel van de peuters en stel nieuwe vragen om de peuters uit te dagen om op een andere manier met de materialen te spelen. Een aantal voorbeelden van vragen en opdrachten zijn:
+-	Leg de takjes van groot naar klein;
+-	Leg alle materialen die dezelfde kleur hebben bij elkaar;
+-	Wat is er zwaarder: het emmertje met de dennenappels of het emmertje met de bladeren? 
+    Hoe komt dat, denk je?
+-	Kun je ervoor zorgen dat twee emmertjes precies even zwaar zijn?
+-	Wat is het kleinste materiaal wat je ziet? Wat is het grootste?
+-	Wat vind je het mooiste? En waarom?
+-	Stel je voor dat je een eekhoorn zou zijn… Wat zou je dan als eerste uitkiezen? Waarom?
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Deze opdracht kun je uitdagender maken door een volgende keer de rivier te verbreden of bijvoorbeeld in plaats van een autootje een kleine vrachtwagen te kiezen.
+**Bijzonderheden:** Er zijn ontzettend veel vragen en opdrachten te bedenken bij deze materialen. Zorg ervoor dat de materialen ook tijdens vrij spel beschikbaar zijn voor de peuters, zodat ze ook hun eigen uitdagende activiteit kunnen bedenken. 
+
