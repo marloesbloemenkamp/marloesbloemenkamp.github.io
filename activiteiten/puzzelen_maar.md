@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Puzzelen maar
 permalink: activiteiten/puzzelen_maar/
-menu_index: 8
+menu_index: 13
 parent: activiteiten
 tags:
   - probleemoplossend denken
