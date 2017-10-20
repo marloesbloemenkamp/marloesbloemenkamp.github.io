@@ -2,7 +2,7 @@
 layout: activiteiten
 title: De deurbel is stuk
 permalink: activiteiten/de_deurbel_is_stuk/
-menu_index: 13
+menu_index: 15
 parent: activiteiten
 tags:
   - probleemoplossend denken
