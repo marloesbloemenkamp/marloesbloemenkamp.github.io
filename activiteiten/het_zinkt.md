@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: De kabouter zoekt een huis
+title: Herfst | De kabouter zoekt een huis
 permalink: activiteiten/de_kabouter_zoekt_een_huis/
 menu_index: 10
 parent: activiteiten
@@ -24,6 +24,3 @@ published: true
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Deze opdracht wordt moeilijker als je er geen houten blokken bij geeft. Wellicht lukt het de peuters om een huisje te bouwen van de herfstmaterialen of zullen ze zelf aan je vragen of ze ook andere materialen mogen gebruiken. Tip: Maak foto’s van de gebouwde huisjes voor thuis of om op te hangen als voorbeeld.
-
-
-
