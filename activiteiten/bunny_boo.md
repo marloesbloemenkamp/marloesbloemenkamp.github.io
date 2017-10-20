@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Bunny Boo
+title: Waar is het konijn?
 permalink: activiteiten/waar is het konijn?/
 menu_index: 3
 parent: activiteiten
