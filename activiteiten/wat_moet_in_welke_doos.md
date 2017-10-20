@@ -1,8 +1,8 @@
 ---
 layout: activiteiten
-title: Wat moet er in welke doos?
+title: Feest | Wat moet er in welke doos?
 permalink: activiteiten/wat_moet_er_in_welke_doos/
-menu_index: 12
+menu_index: 8
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht
