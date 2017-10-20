@@ -1,8 +1,8 @@
 ---
 layout: activiteiten
 title: Bunny Boo
-permalink: activiteiten/bunny_boo/
-menu_index: 7
+permalink: activiteiten/waar is het konijn?/
+menu_index: 3
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht
