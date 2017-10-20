@@ -11,11 +11,11 @@ tags:
 published: true
 ---
 
-**Doel:** experimenteren, creativiteit, rekenkundig-inzicht
+**Doel:** experimenteren, creatief denken, rekenkundig-inzicht
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** verschillende soorten en kleuren bladeren, eikels, kastanjes, takjes, dennenappels… Bakjes en emmertjes in verschillende maten, een weegschaal (of twee emmertjes aan een elastiek
+**Materialen:** verschillende soorten en kleuren bladeren, eikels, kastanjes, takjes, dennenappels… Bakjes en emmertjes in verschillende maten, een weegschaal (of twee emmertjes aan een elastiek).
 
 <p style="margin-top: 10px;"/>
 
@@ -31,5 +31,4 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Er zijn ontzettend veel vragen en opdrachten te bedenken bij deze materialen. Zorg ervoor dat de materialen ook tijdens vrij spel beschikbaar zijn voor de peuters, zodat ze ook hun eigen uitdagende activiteit kunnen bedenken. 
-
+**Bijzonderheden:** Er zijn ontzettend veel vragen en opdrachten te bedenken bij deze materialen. Zorg ervoor dat de materialen ook tijdens vrij spel beschikbaar zijn voor de peuters, zodat ze ook hun eigen uitdagende activiteit kunnen bedenken.
