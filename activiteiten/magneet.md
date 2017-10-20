@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Herfst | Door het spinnenweb
 permalink: activiteiten/door_het_spinnenweb/
-menu_index: 9
+menu_index: 5
 parent: activiteiten
 tags:
   - probleemoplossend denken
