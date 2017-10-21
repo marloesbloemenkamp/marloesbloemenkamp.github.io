@@ -4,13 +4,14 @@ title: Aan de slag! Over het kanaal
 permalink: activiteiten/over_het_kanaal/spa/
 active_menu_index: 4
 parent: activiteiten
+published: true
 ---
 
 ## Stap 1 Bereid de uitdagende activiteit voor
 
 ### 1a. Kies of bedenk een uitdagende activiteit
 
-Ik kies de activiteit Over het kanaal van [slimmepeuterproject.nl](/).
+Ik kies de activiteit Over het kanaal.
 	
 ### 1b. Verzamel de materialen voor de activiteit
 
