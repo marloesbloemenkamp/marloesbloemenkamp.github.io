@@ -11,7 +11,6 @@ Hoe herken je een slimme peuter? Hieronder vind je verschillende kenmerken van s
 
 **Belangrijk om te weten:** Dit is maar een lijstje. Er zijn grote verschillen tussen peuters met een ontwikkelingsvoorsprong. Niet elke peuter met een ontwikkelingsvoorsprong voldoet aan alle kenmerken. En vast niet álle kenmerken staan er in. Ook kunnen de kenmerken er bij iedere peuter verschillend uitzien. Wees dus voorzichtig met interpretaties en gebruik dit lijstje als hulpmiddel.
 
-
 Peuters met een ontwikkelingsvoorsprong...
 
 ## Cognitief
