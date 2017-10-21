@@ -8,6 +8,8 @@ published: true
 ---
 
 Hoe herken je een slimme peuter? Hieronder vind je verschillende kenmerken van slimme peuters; in de literatuur ook wel peuters met een ontwikkelingsvoorsprong genoemd. De kenmerken staan per ontwikkelingsgebied beschreven. 
+**Belangrijk om te weten:** Dit is maar een lijstje. Er zijn grote verschillen tussen peuters met een ontwikkelingsvoorsprong. Niet elke peuter met een ontwikkelingsvoorsprong voldoet aan alle kenmerken. En vast niet álle kenmerken staan er in. Ook kunnen de kenmerken er bij iedere peuter verschillend uitzien. Wees dus voorzichtig met interpretaties en gebruik dit lijstje als hulpmiddel.
+
 Peuters met een ontwikkelingsvoorsprong...
 
 ## Cognitief
@@ -43,8 +45,3 @@ Peuters met een ontwikkelingsvoorsprong...
 ## Motorisch
 * Ontoombare energie en fysieke onrust; ze kunnen springen van ongeduld;
 * Kunnen vroeg zitten, staan en lopen (of juist laat, maar dan vaak meteen vloeiend wanneer het kind zeker lijkt te weten dat hij/zij het goed beheerst).
-
-## Belangrijk om te weten!
-Dit is maar een lijstje. Er zijn grote verschillen tussen peuters met een ontwikkelingsvoorsprong. Niet elke peuter met een ontwikkelingsvoorsprong voldoet aan alle kenmerken uit dit lijstje.
-En vast niet álle kenmerken staan er in. Ook kunnen de kenmerken er bij iedere peuter verschillend uitzien.
-Wees dus voorzichtig met interpretaties en gebruik dit lijstje als hulpmiddel.
