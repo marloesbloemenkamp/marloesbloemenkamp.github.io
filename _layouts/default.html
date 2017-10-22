@@ -26,13 +26,16 @@
   </head>
 
   <body>
-    <header style="">
+    <header>
       <div class="inner">
-        <div id="header-logo-and-text" style="">
-	  <img src="/images/meisje-header.png"/>
-	  <h1 style=""><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-<!--        <h2>{{ site.tagline }}</h2>-->
-        </div>
+
+	<!-- Shoot me for using tables... This previously was grid styling, but IE doesn't seem to like it :( -->
+        <table>
+          <tr>
+            <td><img src="/images/meisje-header.png"/></td>
+	    <td><h1 style=""><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1><!-- <h2>{{ site.tagline }}</h2> --></td>
+          </tr>
+        </table>
 
         <nav class="site-nav">
           <a href="#" class="menu-icon">
@@ -44,16 +47,16 @@
           </a>
 
           <div class="trigger">
-            {% assign sorted_pages = site.pages | sort:"menu_index" %}
-            {% for my_page in sorted_pages %}
-              {% if my_page.menu_index and my_page.parent == "index" %}
-                {% if my_page.menu_index == page.active_menu_index or my_page.menu_index == layout.active_menu_index or my_page.menu_index == page.menu_index and page.parent == "index" %}
-            <a class="page-link active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                {% else %}
-            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
+            {%- assign sorted_pages = site.pages | sort:"menu_index" -%}
+            {%- for my_page in sorted_pages -%}
+              {%- if my_page.menu_index and my_page.parent == "index" -%}
+                {%- if my_page.menu_index == page.active_menu_index or my_page.menu_index == layout.active_menu_index or my_page.menu_index == page.menu_index and page.parent == "index" -%}
+<a class="page-link active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                {%- else -%}
+<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
           </div>
         </nav>
       </div>
