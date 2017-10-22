@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Welkom bij het slimme peuter project!
+# Welkom bij het slimme peuter project!
 
 Op deze website vind je informatie over peuters met een ontwikkelingsvoorsprong en vind je een stappenplan en ideeën voor het aanbieden van uitdagende activiteiten. 
 
