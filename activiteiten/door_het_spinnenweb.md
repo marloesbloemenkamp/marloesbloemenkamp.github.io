@@ -23,7 +23,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Uitdagende activiteit:** Vraag aan de peuters om samen door het spinnenweb te klimmen (en overheen en er onderdoor) om aan de overkant te komen. Oefen dit een paar keer. Je kunt ook vragen of de peuters er een keer door heen gaan door alleen óver de touwen te klimmen. Doe dan een paar touwen zo hoog, dat de peuters er zonder elkaar te helpen of een andere oplossing te verzinnen er niet door heen kunnen.
+**Uitdagende activiteit:** Vraag aan de peuters om door het spinnenweb te klimmen (er overheen en er onderdoor) om aan de overkant te komen. Oefen dit een paar keer. Je kunt ook vragen of de peuters er een keer door heen gaan door alleen óver de touwen te klimmen. Doe dan een paar touwen zo hoog, dat de peuters er zonder elkaar te helpen of een andere oplossing te verzinnen er niet door heen kunnen.
 Als het gelukt is om een paar keer door het spinnenweb te klimmen, maak je tweetallen. Eén van de peuters klimt door het spinnenweb en de andere peuter is de ‘verslaggever’. Hij beschrijft precies wat de andere peuter doet. Doe het eerst zelf een keer voor en gebruik hierbij bijvoorbeeld de volgende begrippen: ‘hoogte’, ‘overheen’, ‘rechts’,’ ‘links’, ‘de oplossing’, ‘scheef’, ‘verslag’, ‘verslaggever’, ‘veilig’. Zorg ervoor dat alle peuters een keer verslaggever kunnen zijn.
 
 <p style="margin-top: 10px;"/>
