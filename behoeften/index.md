@@ -5,6 +5,8 @@ menu_index: 2
 parent: index
 ---
 
+<img src="/images/peers.png" class="centered" />
+
 De volgende aspecten zijn belangrijk voor peuters met een ontwikkelingsvoorsprong:
 
 {% assign sorted_pages = site.pages | sort:"menu_index" %}
@@ -13,3 +15,4 @@ De volgende aspecten zijn belangrijk voor peuters met een ontwikkelingsvoorspron
 ## [{{ my_page.title }}]({{ my_page.url | prepend: site.baseurl }})
   {%- endif -%}
 {% endfor %}
+
