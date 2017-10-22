@@ -593,11 +593,17 @@ header h2 a:hover {
   grid-template-columns: 128px auto;
 }
 
+#header-logo-and-text img {
+  /* We must use flex because otherwise the align-items doesn't work in IE */
+  align-self: end;
+}
+
 #header-logo-and-text h1 {
   -ms-grid-column: 2;
   /* We must use flex because otherwise the align-items doesn't work in IE */
   display: flex;
   align-items: center;
+  margin-bottom: 20px;
 }
 
 .inner {
