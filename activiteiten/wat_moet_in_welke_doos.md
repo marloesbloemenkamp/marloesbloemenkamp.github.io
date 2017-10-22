@@ -9,6 +9,7 @@ tags:
   - probleemoplossend denken
   - samenwerken
 published: true
+hidden: true
 ---
 **Doel:** visueel-ruimtelijk inzicht, probleemoplossend denken, samenwerken
 

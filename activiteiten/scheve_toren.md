@@ -9,6 +9,7 @@ tags:
   - creatief denken
   - bouwen
 published: true
+hidden: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken
