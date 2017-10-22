@@ -451,8 +451,6 @@ a:hover {
 
 /* SITE NAV */
 .site-nav {
-  /* float: right; 
-  line-height: 56px; */
 }
 .site-nav .menu-icon {
   display: none;
@@ -555,14 +553,14 @@ header a {
 }
 
 header h1 {
-/*  width: 540px; */
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
   font-weight: normal;
-  line-height: 1;
+  line-height: 0.9;
   color: #fff;
   letter-spacing: -1px;
+  margin: auto 0px;
 }
 
 header h1 a:hover {
@@ -587,6 +585,12 @@ header h2 a:not(:last-child) {
 
 header h2 a:hover {
   color: white;
+}
+
+#header-logo-and-text {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 128px auto;
 }
 
 .inner {
@@ -854,7 +858,11 @@ dl dd {
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 959px) {
+  header {
+    padding-bottom: 0px;
+  }
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -862,10 +870,9 @@ dl dd {
     width: 740px;
   }
   header h1, header h2 {
-    /*width: 340px;*/
   }
   header h1 {
-    font-size: 60px;
+    font-size: 58px;
   }
   header h2 {
     font-size: 15px;
@@ -877,7 +884,6 @@ dl dd {
 
 
   #main-content {
-    /*width: 490px;*/
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -898,13 +904,12 @@ dl dd {
   }
   header {
     padding-top: 20px;
-    padding-bottom: 20px;
   }
   header h1, header h2 {
     width: 100%;
   }
   header h1 {
-    font-size: 48px;
+    font-size: 44px;
   }
   header h2 {
     font-size: 24px;
