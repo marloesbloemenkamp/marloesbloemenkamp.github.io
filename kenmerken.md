@@ -48,3 +48,5 @@ Peuters met een ontwikkelingsvoorsprong...
 ## Motorisch
 * Ontoombare energie en fysieke onrust; ze kunnen springen van ongeduld;
 * Kunnen vroeg zitten, staan en lopen (of juist laat, maar dan vaak meteen vloeiend wanneer het kind zeker lijkt te weten dat hij/zij het goed beheerst).
+
+<img src="/images/kenmerken.png" class="centered" />
