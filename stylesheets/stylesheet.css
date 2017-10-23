@@ -660,12 +660,10 @@ footer a {
   color: #2879d0; }
 
 footer .footer-left {
-  width: 50%;
   float: left;
 }
 
 footer .footer-right {
-  width: 50%;
   float: right;
   text-align: right;
 }
