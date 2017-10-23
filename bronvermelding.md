@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bronvermelding
+title: Geraadpleegde bronnen
 permalink: /bronvermelding/
 parent: index
 published: true
@@ -35,4 +35,3 @@ Voor de informatie op deze website zijn de volgende bronnen geraadpleegd:
 - Walsh, R., Hodge, K., Bowes, J., & Kemp, C. (2010, Mei). Same Age, Different Page: Overcoming the Barriers to Catering for Young Gifted Children in Prior-to-School Settings. International Journal of Early Childhood, 43-58.
 - Webb, J., Amend, E., Gore, J., & DeVries, A. (2013a). De begeleiding van hoogbegaafde kinderen. Assen: Van Gorcum.
 - Webb, J., Amend, E., Webb, N., & Goerss, J. (2013b). Misdiagnose van hoogbegaafden. Assen: Van Gorcum.
-
