@@ -9,6 +9,8 @@ tags:
   - doorzettingsvermogen
 published: true
 ---
+
+
 **Doel:** visueel-ruimtelijk inzicht, doorzettingsvermogen
 
 <p style="margin-top: 10px;"/>
@@ -21,8 +23,13 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
+
 **Bijzonderheden:** Bij de smartgame zit een prentenboek met een verhaal over de drie biggetjes en de wolf. Ter introductie van het spel, kan dit boekje voorgelezen worden aan de peuters en kan het nagespeeld worden door de peuters.
 
 <p style="margin-top: 10px;"/>
 
 **Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. [Aan de slag! Drie biggetjes]({% link activiteiten/drie_biggetjes_spa.md %}) kun je als voorbeeld gebruiken om te oefenen met het aanbieden van uitdagende activiteiten.
+
+<p style="margin-top: 10px;"/>
+
+<img src="/images/activiteiten/drie_biggetjes.jpg" class="left-aligned"/>

@@ -23,3 +23,7 @@ published: true
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Deze opdracht kun je uitdagender maken door de peuters te vragen om een verhaal te bedenken over de gemaakte bladerbeesten. Wat gaan ze samen doen? Wat zeggen ze tegen elkaar? Kun je ook aan de bladerbeesten zien hoe ze zich voelen?
+
+<p style="margin-top: 10px;"/>
+
+<img src="/images/activiteiten/bladerbeest.jpg" class="left-aligned"/>

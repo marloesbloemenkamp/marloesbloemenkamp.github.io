@@ -28,3 +28,7 @@ published: true
 <p style="margin-top: 10px;"/>
 
 **Stappenplan Aan de slag!** Voor deze activiteit is het stappenplan Aan de slag! al voor je uitgewerkt. [Aan de slag! Over het kanaal]({% link activiteiten/over_het_kanaal_spa.md %}) kun je als voorbeeld gebruiken om te oefenen met het aanbieden van uitdagende activiteiten.
+
+<p style="margin-top: 10px;"/>
+
+<img src="/images/activiteiten/over_het_kanaal.jpg" class="left-aligned"/>

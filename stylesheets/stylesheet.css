@@ -626,6 +626,12 @@ img.centered {
   margin-right: auto;
 }
 
+img.left-aligned {
+  display: block;
+  margin-left: 0px;
+  margin-right: auto;
+}
+
 a.button {
   width: 134px;
   height: 58px;
