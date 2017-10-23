@@ -4,6 +4,7 @@ title: Ondersteuning bij de sociaal-emotionele ontwikkeling
 permalink: behoeften/sociaal-emotionele_ontwikkeling/
 menu_index: 4
 parent: behoeften
+published: true
 ---
 
 Peuters met een ontwikkelingsvoorsprong hebben hulp nodig bij contacten met leeftijdsgenoten.
@@ -14,7 +15,7 @@ Hierdoor kunnen er conflicten en problemen ontstaan. Kinderen met een ontwikkeli
 worden en/of een negatief zelfbeeld ontwikkelen. Sommige kinderen zullen zich gaan aanpassen en soortgelijk gedrag
 gaan vertonen als dat van hun leeftijdsgenoten om niet op te vallen.
 Het is belangrijk dat peuters met een ontwikkelingsvoorsprong hun eigen kwaliteiten leren kennen, ook in vergelijking
-met die van anderen in zijn omgeving.
+met die van anderen in hun omgeving.
 
-Bij peuters met een ontwikkelingsvoorsprong is bovendien vaak sprake van intensiteit in gevoelens en emoties.
+Bij peuters met een ontwikkelingsvoorsprong is er bovendien vaak sprake van intensiteit in gevoelens en emoties.
 Dit vraagt ook een goede begeleiding waarbij het belangrijk is de intense gevoelens en emoties te erkennen.
