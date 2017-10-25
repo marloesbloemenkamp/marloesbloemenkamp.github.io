@@ -16,11 +16,11 @@ Ik kies de activiteit Over het kanaal.
 ### 1b. Verzamel de materialen voor de activiteit
 
 Ik heb de volgende materialen nodig:
-- Zandtafel
 - Blauw doek of papier als kanaal
 - Kleine houten blokken
 - Duplo
 - Papier/karton
+- Een speelgoed dier of poppetje
 - Autootjes
 - Eventueel een vrachtwagentje
 
@@ -32,7 +32,7 @@ Ik vraag drie peuters met een ontwikkelingsvoorsprong of ze mee willen helpen om
 
 ### 2a. Geef uitleg over de activiteit
 
-Ik vertel dat er een probleem is: de auto in de zandtafel wil van de ene kant van het kanaal naar de andere kant, maar er is geen brug. Wat kunnen we bedenken om de auto naar de andere kant te kunnen laten gaan? Kunnen jullie iets bedenken en bouwen? Misschien kunnen we deze spullen ervoor gebruiken (wijs de materialen aan) of denken jullie dat we iets anders nodig hebben? Wie heeft er al een idee? Ik vraag de peuters die nog geen idee noemen: wat denk jij?
+Ik vertel dat er een probleem is: de auto wil van de ene kant van het kanaal naar de andere kant om het dier op te halen, maar er is geen brug. Wat kunnen we bedenken om de auto naar de andere kant te kunnen laten gaan? Kunnen jullie iets bedenken en bouwen? Misschien kunnen we deze spullen ervoor gebruiken (wijs de materialen aan) of denken jullie dat we iets anders nodig hebben? Wie heeft er al een idee? Ik vraag de peuters die nog geen idee noemen: wat denk jij?
 
 ### 2b. Bespreek regels en afspraken bij de activiteit
 Ik bespreek: Het is belangrijk dat we goed overleggen en samenwerken, dan vinden we vast een goede oplossing. Soms moet je misschien even op elkaar wachten. We zorgen ervoor dat iedereen aan de beurt komt.
