@@ -1,7 +1,7 @@
 ---
 layout: activiteiten
 title: Vrachtwagens laden
-permalink: activiteiten/vliegende_tassen/
+permalink: activiteiten/vrachtwagens_laden/
 menu_index: 16
 parent: activiteiten
 tags:
