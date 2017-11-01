@@ -8,7 +8,7 @@ tags:
   - visueel-ruimtelijk inzicht
   - doorzettingsvermogen
 published: true
-hidden: true
+hidden: false
 ---
 
 **Doel:** visueel-ruimtelijk inzicht, doorzettingsvermogen
@@ -29,5 +29,3 @@ hidden: true
 
 **Bijzonderheden:** Voor sommige peuters is dit nog een hele lastige activiteit. Je kunt de peuters begeleiden door vragen te stellen, zoals bijvoorbeeld: “Kun je dit puzzelstuk nog op andere manieren in de laadruimte plaatsen?” of “Welke manieren heb je al geprobeerd en welke nog niet?” Wanneer je merkt dat de opdrachten echt nog te moeilijk zijn, kun je aan de peuter vragen om de oplossingen na te bouwen van de achterkant van de opdrachtkaarten. Op deze manier leert de peuter over mogelijke oplossingen en begrijpt hij/zij sneller wat wel en niet mogelijk is of is toegestaan.
 Dit is een activiteit die peuters wellicht na de eerste keer niet meer uit zichzelf pakken, wanneer het de eerste keer nog niet zo goed gelukt is. Motiveer de peuters om het toch vaker te proberen en houd samen bij welke kaarten al gelukt zijn. Laat de peuters ervaren dat je door te oefenen en je best te doen iets nieuws kunt leren!
-
-
