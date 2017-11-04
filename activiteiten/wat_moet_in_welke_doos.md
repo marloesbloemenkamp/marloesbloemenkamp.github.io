@@ -1,7 +1,7 @@
 ---
 layout: activiteiten
-title: Feest | Wat moet er in welke doos?
-permalink: activiteiten/wat_moet_er_in_welke_doos/
+title: Feest | Inpakhulp gezocht
+permalink: activiteiten/inpakhulp_gezocht/
 menu_index: 8
 parent: activiteiten
 tags:
@@ -23,4 +23,6 @@ hidden: true
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Deze activiteit past goed binnen een Sinterklaasthema om de inpakpieten te helpen bij het plaatsen van cadeautjes in de juiste dozen.
+**Bijzonderheden:** Deze activiteit past goed binnen een Sinterklaas- of Kerstthema. De peuters kunnen in de Sinterklaasperiode de inpakpieten te helpen bij het plaatsen van cadeautjes in de juiste dozen of met Kerst de kerstcadeautjes helpen inpakken.
+
+
