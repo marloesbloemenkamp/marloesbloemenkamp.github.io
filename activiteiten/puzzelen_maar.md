@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Puzzelen maar
 permalink: activiteiten/puzzelen_maar/
-menu_index: 13
+menu_index: 15
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht
@@ -32,5 +32,3 @@ published: true
 
 **Bijzonderheden:** Er zijn nog veel meer opties om puzzels uitdagender te maken. Heb je zelf nog meer ideeën voor uitdagende puzzelactiviteiten?
 Om te weten te komen welke puzzels een slimme peuter al kan maken is het naast je eigen observaties, handig om aan ouders te vragen welke puzzels de peuter thuis maakt. Er zijn veel slimme peuters die thuis al heel moeilijke puzzels maken en zich bij andere peuters aanpassen naar het niveau van andere peuters of de moeilijkheidsgraad van de puzzels die aanwezig zijn. Ouders zijn een belangrijke partner bij het signaleren van de ontwikkelingsvoorsprong en hebben belangrijke informatie over het ontwikkelingsniveau van de peuters.
-
-
