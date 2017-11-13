@@ -8,7 +8,7 @@ tags:
   - creatief denken
   - taal
 published: true
-hidden: true
+hidden: false
 ---
 
 **Doel:** creatief denken, taal
@@ -30,4 +30,3 @@ Een paar voorbeelden:
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Je kunt deze activiteit uitdagender maken door in één keer meerdere veranderingen aan te brengen en de peuters te vragen hoeveel woorden je hebt veranderd èn welke veranderingen het waren. En misschien lukt het sommige slimme peuters al wel om ook zelf een woordje te veranderen in een liedje en dit te laten horen!
-
