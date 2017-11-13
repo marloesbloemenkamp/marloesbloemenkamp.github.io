@@ -7,7 +7,7 @@ parent: activiteiten
 tags:
   - bewegen
   - rekenkundig-inzicht
-published: false
+published: true
 ---
 
 **Doel:** bewegen, rekenkundig-inzicht
@@ -29,4 +29,4 @@ published: false
 
 <p style="margin-top: 10px;"/>
 
-**Bijzonderheden:** Dit een goede activiteit om de peuters mee te laten denken. Welke verdeling bedenken zij voor het gooien van de pakjes in hoepels?
+**Bijzonderheden:** Dit een goede activiteit om de peuters mee te laten denken. Welke verdeling bedenken zij voor het gooien van de pakjes in de hoepels?
