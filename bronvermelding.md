@@ -7,17 +7,16 @@ published: true
 ---
 Voor de informatie op deze website zijn de volgende bronnen geraadpleegd:
 
-- Althuizen, M., Boer, E. d., & Kordelaar, N. v. (2016, Oktober). Doe ik wel wat hoort? Het Jonge Kind, 28-31.
+- Althuizen, M., Boer, E. d., & Kordelaar, N. van. (2016). Doe ik wel wat hoort? Het Jonge Kind, 28-31.
 - Cotar, S., & Kukanja, M. (2015). Professional Competences of Preschool Teachers for Working with Gifted Young Children in Slovenia. Journal for the Education of Gifted Young Scientists, 3(2), 65-78.
 - Edwards, K. (2009). Misdiagnosis, the Recent Trend in Thinking about Gifted Children with ADHD. The New Zealand Journal of Gifted Education, 15(1).
 - Gagné, F. (2011). Academic Talent Development and the Equity Issue in Gifted Education. Talent Development & Excellence, 3(1), 3-22.
 - Geake, J., & Gross, M. (2008). Teachers' Negative Affect Toward Academically Gifted Students. Gifted Child Quarterly, 52(3), 217-231.
-- Gerven, E. v. (2009). Slimme kleuters. In E. v. Gerven, Handboek Hoogbegaafdheid (pp. 128-144). Assen: Van Gorcum.
+- Gerven, E. van. (2009). Slimme kleuters. In E. van Gerven, Handboek Hoogbegaafdheid (pp. 128-144). Assen: Van Gorcum.
 - Gross, M. (1999). Small poppies: highly gifted children in the early years. Roeper Review, 207-214.
 - Heller, K. (2009). Gifted education from the German perspective. The Routledge International Companion to Gifted Education, 32-41.
 - Houkema, D., Steenbergen-Penterman, N., & Janssen, Y. (2016). Kwaliteitskaart Stimulerend signaleren. Den Haag: School aan Zet.
-- Houten, E. v., & Lagerweij, N. (2009). Ontwikkelingsvoorsprong wat weten we nou écht? Het jonge kind(1), 8-10.
-- Houten-van den Bosch, E., Kuipers, J., & Peters, W. (2007). Hoogbegaafde kinderen. In Bakker, v. Z.-v. Aa, Dewispelaere, V.-v. d. Bergh, v. d.-v. Dijk, & Soyez, Handboek kinderen en adolescenten (pp. E110-1 - E110-18). Houten/Diegem: Bohn, Stafleu, Van Loghum.
+- Houten-van den Bosch, E., Kuipers, J., & Peters, W. (2007). Hoogbegaafde kinderen. In Bakker, G., Zeben-van der Aa, D., Dewispelaere, J., Vecht-van den Bergh, R., Meulen-van Dijk, M. & Soyez, V., Handboek kinderen en adolescenten (pp. E110-1 - E110-18). Houten/Diegem: Bohn, Stafleu, Van Loghum.
 - Janson, D. (2009). Handboek hoogbegaafdheid. (E. Gerven, Red.) Assen: Koninklijke Van Gorcum.
 - Janson, D., & Creemers, M. (2016). Kwaliteitskaart kleuters met een ontwikkelingsvoorsprong. Den Haag: School aan Zet.
 - Keeman, P. (2013). Pientere Peuters - hoe vind je ze? Talent(6), 8-10.
