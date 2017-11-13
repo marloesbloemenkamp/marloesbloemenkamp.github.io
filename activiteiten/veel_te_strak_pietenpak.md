@@ -8,14 +8,14 @@ tags:
   - probleemoplossend denken
   - creatief denken
   - samenwerken
-published: false
+published: true
 ---
 
 **Doel:** probleemoplossend denken, creatief denken, samenwerken
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal???
+**Materialen:** afhankelijk van ideeën van de peuters: papier, potloden, dozen, knutselmateriaal?
 
 <p style="margin-top: 10px;"/>
 
