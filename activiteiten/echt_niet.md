@@ -7,7 +7,7 @@ parent: activiteiten
 tags:
   - creatief denken
   - taal
-published: false
+published: true
 ---
 
 **Doel:** creatief denken, taal
