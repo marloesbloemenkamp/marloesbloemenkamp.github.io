@@ -8,7 +8,7 @@ tags:
   - visueel-ruimtelijk inzicht
   - creatief denken
   - samenwerken
-published: false
+published: true
 ---
 
 **Doel:** visueel-ruimtelijk inzicht, creatief denken, samenwerken
