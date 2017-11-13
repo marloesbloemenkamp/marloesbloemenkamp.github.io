@@ -9,7 +9,7 @@ tags:
   - probleemoplossend denken
   - samenwerken
 published: true
-hidden: true
+hidden: false
 ---
 **Doel:** visueel-ruimtelijk inzicht, probleemoplossend denken, samenwerken
 
@@ -24,5 +24,3 @@ hidden: true
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Deze activiteit past goed binnen een Sinterklaas- of Kerstthema. De peuters kunnen in de Sinterklaasperiode de inpakpieten te helpen bij het plaatsen van cadeautjes in de juiste dozen of met Kerst de kerstcadeautjes helpen inpakken.
-
-
