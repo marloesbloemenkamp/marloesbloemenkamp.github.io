@@ -25,5 +25,4 @@ hidden: true
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Dit is een mooie activiteit om de peuters te observeren. Wie begint er meteen en wie wil er eerst een plan maken? Wie heeft er creatieve ideeën om de toren te bouwen? Wie houdt vol en zet door als de toren om valt? En wie heeft er even hulp nodig om toch door te zetten? Geef de peuters de ruimte om zo veel mogelijk zelfstandig deze opdracht uit te voeren en verwonder je over de ideeën van de peuters!
-Deze activiteit is ook leuk met blokken uit de bouwhoek of bijvoorbeeld wc-rollen of keukenrollen.
-
+Deze activiteit is ook leuk met blokjes uit de bouwhoek of bijvoorbeeld wc-rollen of keukenrollen.
