@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Winter | Ijs
+title: Winter | IJs
 permalink: activiteiten/ijs/
 menu_index: 20
 parent: activiteiten
@@ -14,7 +14,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** Ijsklontjes, warm en koud kraanwater, vormpjes voor ijsklontjes, diepvries, maatbekers.
+**Materialen:** IJsklontjes, warm en koud kraanwater, vormpjes voor ijsklontjes, diepvries, maatbekers.
 
 <p style="margin-top: 10px;"/>
 
@@ -23,4 +23,3 @@ published: true
 <p style="margin-top: 10px;"/>
 
 **Bijzonderheden:** Laat de peuters zelf experimenteren tijdens deze activiteit. Geef ze de ruimte om zelf te onderzoeken en stel eventueel verdiepende vragen. Een uitdagende aanvulling is om een paar ijsklontjes in een hoog glas met olie te doen. Wat denken jullie dat er dan zal gebeuren? En hoe kan dit?
-
