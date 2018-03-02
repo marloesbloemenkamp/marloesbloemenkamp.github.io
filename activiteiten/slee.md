@@ -18,7 +18,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Uitdagende activiteit:** Laat een slee zien en vraag de peuters wat het is. Hoe heet dit ding? Wat kun je ermee doen? Wanneer kun je het gebruiken? Is het leuk om te gebruiken? Als je gelukt hebt en er echt sneeuw ligt, kun je natuurlijk even spelen met de slee. Stel de volgende vragen: Hoe vaak kun je een slee gebruiken in Nederland? Hoe vaak ligt er sneeuw in Nederland? En wat doe je met een slee als er geen sneeuw ligt? We gaan nu nieuwe manieren bedenken voor de slee op alle dagen dat er géén sneeuw ligt! Waar kun je de slee nog meer voor gebruiken? Hoe kun je er bijvoorbeeld op een andere manier mee spelen? Of waar is misschien wel heel handig voor? Bedenk zoveel mogelijk nieuwe oplossingen voor een slee. Welke oplossingen kunnen jullie allemaal bedenken en welke kun je misschien óók uitproberen?
+**Uitdagende activiteit:** Laat een slee zien en vraag de peuters wat het is. Hoe heet dit ding? Wat kun je ermee doen? Wanneer kun je het gebruiken? Is het leuk om te gebruiken? Als je gelukt hebt en er echt sneeuw ligt, kun je natuurlijk even spelen met de slee. Stel de volgende vragen: Hoe vaak kun je een slee gebruiken in Nederland? Hoe vaak ligt er sneeuw in Nederland? En wat doe je met een slee als er geen sneeuw ligt? We gaan nu nieuwe manieren bedenken voor de slee op alle dagen dat er géén sneeuw ligt! Waar kun je de slee nog meer voor gebruiken? Hoe kun je er bijvoorbeeld op een andere manier mee spelen? Of waar is het misschien wel heel handig voor? Bedenk zoveel mogelijk nieuwe oplossingen voor een slee. Welke oplossingen kunnen jullie allemaal bedenken en welke kun je misschien óók uitproberen?
 
 <p style="margin-top: 10px;"/>
 
