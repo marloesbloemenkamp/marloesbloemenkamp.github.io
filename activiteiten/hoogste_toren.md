@@ -2,14 +2,13 @@
 layout: activiteiten
 title: Feest | Hoogste toren van pakjes
 permalink: activiteiten/hoogste_toren/
-menu_index: 14
+menu_index: 62
 parent: activiteiten
 tags:
   - probleemoplossend denken
   - visueel-ruimtelijk inzicht
   - samenwerken
 published: true
-hidden: true
 ---
 
 **Doel:** probleemoplossend denken, visueel-ruimtelijk inzicht, samenwerken

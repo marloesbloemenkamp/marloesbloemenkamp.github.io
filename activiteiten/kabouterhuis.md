@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Herfst | Kabouterhuis
 permalink: activiteiten/kabouterhuis/
-menu_index: 6
+menu_index: 42
 parent: activiteiten
 tags:
   - probleemoplossend denken

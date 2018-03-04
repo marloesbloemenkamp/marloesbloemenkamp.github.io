@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Winter | Slee
 permalink: activiteiten/slee/
-menu_index: 19
+menu_index: 50
 parent: activiteiten
 tags:
   - creatief denken

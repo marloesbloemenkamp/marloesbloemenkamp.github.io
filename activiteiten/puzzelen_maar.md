@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Puzzelen maar
 permalink: activiteiten/puzzelen_maar/
-menu_index: 15
+menu_index: 82
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht

@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Over het kanaal
 permalink: activiteiten/over_het_kanaal/
-menu_index: 1
+menu_index: 80
 parent: activiteiten
 tags:
   - probleemoplossend denken

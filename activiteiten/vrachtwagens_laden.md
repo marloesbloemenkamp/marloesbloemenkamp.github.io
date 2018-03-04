@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Vrachtwagens laden
 permalink: activiteiten/vrachtwagens_laden/
-menu_index: 18
+menu_index: 72
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht

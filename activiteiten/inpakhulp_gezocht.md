@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Inpakhulp gezocht
 permalink: activiteiten/inpakhulp_gezocht/
-menu_index: 8
+menu_index: 60
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht

@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Winter | IJs
 permalink: activiteiten/ijs/
-menu_index: 20
+menu_index: 51
 parent: activiteiten
 tags:
   - experimenteren

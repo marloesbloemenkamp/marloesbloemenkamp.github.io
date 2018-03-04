@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Pakjes in de hoepel
 permalink: activiteiten/pakjes_in_de_hoepel/
-menu_index: 11
+menu_index: 63
 parent: activiteiten
 tags:
   - bewegen

@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Veel te strak pietenpak
 permalink: activiteiten/veel_te_strak_pietenpak/
-menu_index: 13
+menu_index: 65
 parent: activiteiten
 tags:
   - probleemoplossend denken

@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Nieuwe kerstboom
 permalink: activiteiten/nieuwe_kerstboom/
-menu_index: 14
+menu_index: 66
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht

@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Nieuwe liedjes
 permalink: activiteiten/nieuwe_liedjes/
-menu_index: 9
+menu_index: 61
 parent: activiteiten
 tags:
   - creatief denken

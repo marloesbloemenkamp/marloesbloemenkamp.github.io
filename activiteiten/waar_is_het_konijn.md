@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Waar is het konijn?
 permalink: activiteiten/waar_is_het_konijn/
-menu_index: 3
+menu_index: 71
 parent: activiteiten
 tags:
   - visueel-ruimtelijk inzicht

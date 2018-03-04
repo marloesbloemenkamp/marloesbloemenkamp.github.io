@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Feest | Echt niet?!
 permalink: activiteiten/echt_niet/
-menu_index: 12
+menu_index: 64
 parent: activiteiten
 tags:
   - creatief denken
