@@ -26,4 +26,4 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Werkblad:** [Download hier het werkblad.](/downloads/bloemenveld.pdf)
+**Werkblad:** [Download hier het werkblad.](/downloads/bloemenveld.pdf){:target="_blank"}

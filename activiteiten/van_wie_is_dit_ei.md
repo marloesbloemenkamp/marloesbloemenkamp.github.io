@@ -26,4 +26,4 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Werkblad:** [Download hier het werkblad.](/downloads/van_wie_is_dit_ei.pdf)
+**Werkblad:** [Download hier het werkblad.](/downloads/van_wie_is_dit_ei.pdf){:target="_blank"}
