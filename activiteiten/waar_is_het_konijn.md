@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Waar is het konijn?
+title: Smartgames | Waar is het konijn?
 permalink: activiteiten/waar_is_het_konijn/
 menu_index: 71
 parent: activiteiten

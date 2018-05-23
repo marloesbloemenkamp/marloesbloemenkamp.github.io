@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Drie biggetjes
+title: Smartgames | Drie biggetjes
 permalink: activiteiten/drie_biggetjes/
 menu_index: 70
 parent: activiteiten
@@ -15,7 +15,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** de smartgame Drie Kleine Biggetjes
+**Materialen:** de smartgame Drie Kleine Biggetjes.
 
 <p style="margin-top: 10px;"/>
 

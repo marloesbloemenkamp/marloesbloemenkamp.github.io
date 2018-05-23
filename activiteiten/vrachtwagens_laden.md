@@ -1,6 +1,6 @@
 ---
 layout: activiteiten
-title: Vrachtwagens laden
+title: Smartgames | Vrachtwagens laden
 permalink: activiteiten/vrachtwagens_laden/
 menu_index: 72
 parent: activiteiten
@@ -15,7 +15,7 @@ hidden: false
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** de smartgame Trucky 3
+**Materialen:** de smartgame Trucky 3.
 
 <p style="margin-top: 10px;"/>
 
