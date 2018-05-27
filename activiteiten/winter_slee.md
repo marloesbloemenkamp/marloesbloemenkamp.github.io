@@ -2,7 +2,7 @@
 layout: activiteiten
 title: Winter | Slee
 permalink: activiteiten/slee/
-menu_index: 50
+menu_index: 52
 parent: activiteiten
 tags:
   - creatief denken
@@ -14,7 +14,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** Slee (eventueel een paar verschillende soorten sleeën).
+**Materialen:** slee (eventueel een paar verschillende soorten sleeën).
 
 <p style="margin-top: 10px;"/>
 

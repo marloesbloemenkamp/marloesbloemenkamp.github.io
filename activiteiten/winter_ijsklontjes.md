@@ -1,8 +1,8 @@
 ---
 layout: activiteiten
-title: Winter | IJs
-permalink: activiteiten/ijs/
-menu_index: 51
+title: Winter | IJsklontjes
+permalink: activiteiten/ijsklontjes/
+menu_index: 50
 parent: activiteiten
 tags:
   - experimenteren
@@ -14,7 +14,7 @@ published: true
 
 <p style="margin-top: 10px;"/>
 
-**Materialen:** IJsklontjes, warm en koud kraanwater, vormpjes voor ijsklontjes, diepvries, maatbekers.
+**Materialen:** ijsklontjes, warm en koud kraanwater, vormpjes voor ijsklontjes, diepvries, maatbekers.
 
 <p style="margin-top: 10px;"/>
 
