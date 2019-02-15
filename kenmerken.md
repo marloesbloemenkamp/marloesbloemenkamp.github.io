@@ -28,12 +28,16 @@ Peuters met een ontwikkelingsvoorsprong...
 * Hebben een goed visueel-ruimtelijk of wiskundig inzicht;
 * Slaan ontwikkelings- of leerstappen over.
 
-## Sociaal-emotioneel
-* Hebben een bijzonder, volwassen gevoel voor humor;
-* Zijn kritisch ingesteld en vragen om uitleg;
-* Stellen regels ter discussie stellen en willen graag zelf bepalen ;
+## Sociaal
 * Zijn geneigd oudere kinderen of volwassenen op te zoeken om mee te praten of spelen;
-* Bewust van leven en dood;
+* Zijn kritisch ingesteld en vragen om uitleg;
+* Stellen regels ter discussie;
+* Hebben een sterke behoefte aan autonomie;
+* Zijn snel geneigd de leiding te nemen.
+
+## Emotioneel
+* Hebben een bijzonder, volwassen gevoel voor humor;
+* Zijn bewust van leven en dood;
 * Stellen levensvragen;
 * Hebben een groot rechtvaardigheidsgevoel.
 
